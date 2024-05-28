@@ -50,7 +50,7 @@ I am a dedicated and versatile Python fullstack developer with a strong foundati
 
 <details>
   <summary>More about me</summary>
-    I have 5 years of Python experience, during which I've continuously strived to learn new technologies and hone my skills. I'm deeply passionate about what I do.
+    I have 4 years of Python experience, during which I've continuously strived to learn new technologies and hone my skills. I'm deeply passionate about what I do.
     My programming journey commenced at the age of 14. Initially, I wasn't particularly fond of the subject. However, as I delved deeper into the world of programming, I discovered a profound love for it.
     Before delving into Django and Flask, I gained significant experience working with aiogram and the Telegram Bot API, particularly in developing Telegram bots.
     After working with Django and Flask, I expanded my skill set to include Selenium and Beautiful Soup 4, with Selenium quickly becoming my favorite tool for its versatility and effectiveness in web automation tasks.
