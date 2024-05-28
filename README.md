@@ -8,7 +8,7 @@ I am a dedicated and versatile Python fullstack developer with a strong foundati
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="margin: 10px;">
   <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="margin: 10px;">
   <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="margin: 10px;">
-  <img alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin: 10px;">
+  <img alt="Github" width="40px" src="https://www.svgrepo.com/show/217753/github.svg" style="margin: 10px;">
   <img alt="PyCharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="margin: 10px;">
   <img alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="margin: 10px;">
   <img alt="Google" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="margin: 10px;">
