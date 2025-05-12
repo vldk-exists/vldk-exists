@@ -1,6 +1,6 @@
 # Hi👋 My name is Vlad
 
-I am a dedicated and versatile Python fullstack developer with a strong foundation in Python programming and a diverse range of technical skills. With extensive experience in both backend and frontend development, I bring a comprehensive approach to building robust and scalable applications.
+I am a dedicated and versatile developer with a strong foundation in programming and a diverse range of technical skills. With extensive experience in both backend and frontend development, I bring a comprehensive approach to building robust and scalable applications.
 
 ## Tech Skills
 
@@ -23,7 +23,7 @@ I am a dedicated and versatile Python fullstack developer with a strong foundati
   <img alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="margin: 10px;">
   <img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="margin: 10px;">
   <img alt="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-plain.svg" style="margin: 10px;">
-  <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="margin: 10px;">
+  <img alt="Pandas" width="40px" src="/devicon/icons/pandas/pandas-original.svg" style="margin: 10px;">
 </div>
 
 <br>
