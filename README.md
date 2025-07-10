@@ -18,7 +18,6 @@ I am a dedicated and versatile developer with a strong foundation in programming
   <img alt="PyTorch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="margin: 10px;">
   <img alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="margin: 10px;">
   <img alt="Postgres" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" style="margin: 10px;">
-  <img alt="Flask" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="margin: 10px;">
   <img alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="margin: 10px;">
   <img alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="margin: 10px;">
   <img alt="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-plain.svg" style="margin: 10px;">
